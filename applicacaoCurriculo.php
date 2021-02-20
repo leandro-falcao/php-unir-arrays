@@ -58,3 +58,7 @@
       <p> <?= $profisao .' --- ' .$especialidade ?> </p>
    </body>
 </html>
+
+<?php 
+   header('Refresh:60');
+?>
