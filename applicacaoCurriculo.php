@@ -43,6 +43,5 @@
       'php' => 60,
       'javascript' => 50,
       'python' => 20];
-
-
 ?>
+
